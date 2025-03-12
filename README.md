@@ -1,2 +1,2 @@
 # Mapstruct-e-Lombok
-Um pouco da funcionalidade do Mapstruct e do Lombok.
+Um pouco da funcionalidade do Maven, utilizando Mapstruct e Lombok.
